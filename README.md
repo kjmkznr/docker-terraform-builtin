@@ -5,7 +5,7 @@
 ### Run Docker
 
 ```
-docker run kjmkznr/terraform:latest terraform init
-docker run kjmkznr/terraform:latest terraform plan
-docker run kjmkznr/terraform:latest terraform apply
+docker run kjmkznr/terraform-builtin:latest terraform init
+docker run kjmkznr/terraform-builtin:latest terraform plan
+docker run kjmkznr/terraform-builtin:latest terraform apply
 ```
