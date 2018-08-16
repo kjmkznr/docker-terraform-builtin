@@ -1,4 +1,4 @@
-FROM kjmkznr/terraform:0.11.7
+FROM kjmkznr/terraform:0.11.8
 LABEL maintainer="KOJIMA Kazunori kjm.kznr@gmail.com"
 
 ENV TERRAFORM_PROVIDER_MACKEREL_VERSION=0.1.0
